@@ -29,7 +29,7 @@
 #include "volume_control.h"
 
 /* device name */
-#define LOCAL_DEVICE_NAME    "Guido2 Speaker"
+#define LOCAL_DEVICE_NAME    "Apolo I - ME1 UTN"
 
 /* event for stack up */
 enum {
